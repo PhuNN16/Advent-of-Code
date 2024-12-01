@@ -1,0 +1,1 @@
+ls = open('2024/inputs/day1.txt', 'r').read().split('\n')[:-1]
